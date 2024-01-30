@@ -11,6 +11,8 @@
 		5DCE7A1E2B695AA500066956 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCE7A1D2B695AA500066956 /* ContentView.swift */; };
 		5DCE7A202B695AA700066956 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DCE7A1F2B695AA700066956 /* Assets.xcassets */; };
 		5DCE7A232B695AA700066956 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DCE7A222B695AA700066956 /* Preview Assets.xcassets */; };
+		5DCE7A2A2B69639E00066956 /* ContentView_FoundationLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCE7A292B69639E00066956 /* ContentView_FoundationLearning.swift */; };
+		5DCE7A2C2B69659100066956 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 5DCE7A2B2B69659100066956 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		5DCE7A1D2B695AA500066956 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5DCE7A1F2B695AA700066956 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DCE7A222B695AA700066956 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5DCE7A292B69639E00066956 /* ContentView_FoundationLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView_FoundationLearning.swift; sourceTree = "<group>"; };
+		5DCE7A2B2B69659100066956 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				5DCE7A1B2B695AA500066956 /* BetterRestApp.swift */,
 				5DCE7A1D2B695AA500066956 /* ContentView.swift */,
+				5DCE7A2B2B69659100066956 /* SleepCalculator.mlmodel */,
+				5DCE7A292B69639E00066956 /* ContentView_FoundationLearning.swift */,
 				5DCE7A1F2B695AA700066956 /* Assets.xcassets */,
 				5DCE7A212B695AA700066956 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DCE7A1E2B695AA500066956 /* ContentView.swift in Sources */,
+				5DCE7A2A2B69639E00066956 /* ContentView_FoundationLearning.swift in Sources */,
+				5DCE7A2C2B69659100066956 /* SleepCalculator.mlmodel in Sources */,
 				5DCE7A1C2B695AA500066956 /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
